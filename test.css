@@ -6,3 +6,21 @@
     color: blue;
     cursor: url(https://freepngimg.com/miscellaneous/emoji);
 }
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 150px;
+}
+/*.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}*/
+
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: blue;
+}
